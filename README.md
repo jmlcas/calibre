@@ -1,5 +1,3 @@
-# calibre
-Calibre - Books reader - Docker compose
+# Calibre
 
-Ver en "localhost:8200"
-
+Ver en "http://localhost:8200"
